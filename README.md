@@ -1,2 +1,4 @@
 # projetofinal02112022
-Projeto finalizado com junto com as aulas de 7h de CSS
+
+
+Esse foi o projeto final da vídeo aula de 7 horas sobre CSS.
